@@ -44,10 +44,10 @@ export default function Contact() {
               </div>
               <div className="flex gap-x-4">
                 <dt className="flex-none">
-                  <span className="sr-only">Telephone</span>
                   <Phone className="h-7 w-6 text-primary-600" aria-hidden="true" />
                 </dt>
                 <dd>
+                  <span className="font-semibold text-gray-900">Phone:</span>{" "}
                   <a className="hover:text-gray-900" href="tel:+13122783248">
                     (312) 278-3248
                   </a>
@@ -55,19 +55,18 @@ export default function Contact() {
               </div>
               <div className="flex gap-x-4">
                 <dt className="flex-none">
-                  <span className="sr-only">Fax</span>
                   <Phone className="h-7 w-6 text-primary-600" aria-hidden="true" />
                 </dt>
                 <dd>
-                  (312) 855-2014
+                  <span className="font-semibold text-gray-900">Fax:</span> (312) 855-2014
                 </dd>
               </div>
               <div className="flex gap-x-4">
                 <dt className="flex-none">
-                  <span className="sr-only">Email</span>
                   <Mail className="h-7 w-6 text-primary-600" aria-hidden="true" />
                 </dt>
                 <dd>
+                  <span className="font-semibold text-gray-900">Email:</span>{" "}
                   <a className="hover:text-gray-900" href="mailto:info@samplecpa.com">
                     info@samplecpa.com
                   </a>
