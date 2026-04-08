@@ -24,7 +24,7 @@ export default function About() {
               A Full-Service Accounting Company in Chicago, IL
             </h2>
             <p className="mx-auto mt-5 max-w-4xl text-base leading-7 text-gray-700 sm:text-lg">
-              Sample CPA was founded in 1991 by experienced partners and has built a long-standing reputation for audit, tax, and consulting services. As a full-service accounting firm focused on the securities and derivatives space, we deliver responsive, personalized support with a commitment to quality and excellence.
+              Sample CPA was built on the expertise of seasoned partners in 1991 and continues to lead the way in specialized accounting services. We focus exclusively on the securities and derivatives industry, ensuring our clients receive responsive, high-quality attention that balances sophisticated audit and tax solutions with a commitment to excellence.
             </p>
           </motion.div>
         </div>
@@ -56,10 +56,10 @@ export default function About() {
             <div className="mb-4 h-1 w-14 bg-sky-500" />
             <h3 className="text-2xl font-semibold sm:text-3xl">Our Clientele</h3>
             <p className="mt-4 text-base leading-7 text-gray-700">
-              Sample CPA serves clients across hedge funds, commodity pools, fund managers, proprietary trading firms, securities broker-dealers, futures commission merchants, introducing brokers, individual traders, brokers, exchanges, family offices, and high-net-worth individuals.
+              Sample CPA serves a diverse range of market participants, including hedge funds, commodity pools, proprietary trading firms, and broker-dealers. Our expertise also extends to fund managers, futures commission merchants, family offices, and high-net-worth individuals.
             </p>
             <p className="mt-4 text-base leading-7 text-gray-700">
-              Our clients are members of, or maintain relationships with, both domestic and international securities and futures exchanges.
+              Our clients are active members of the global financial community, maintaining critical relationships with both domestic and international securities and futures exchanges.
             </p>
           </motion.div>
         </div>
@@ -77,13 +77,13 @@ export default function About() {
             <div className="mb-4 h-1 w-14 bg-sky-500" />
             <h3 className="text-2xl font-semibold sm:text-3xl">Our History</h3>
             <p className="mt-4 text-base leading-7 text-gray-700">
-              Since 1991, Sample CPA has developed its practice around specialized accounting and advisory work for clients in highly regulated financial sectors.
+              Since its inception, Sample CPA has specialized in providing sophisticated accounting and advisory solutions for highly regulated financial sectors.
             </p>
             <p className="mt-4 text-base leading-7 text-gray-700">
-              Our partners bring decades of public accounting and industry experience. While operational leadership has evolved over time, our advisory culture remains rooted in practical guidance, technical depth, and long-term client relationships.
+              Our partners offer decades of combined public accounting and industry-specific experience. While our firm has grown and evolved, our core philosophy remains unchanged: we prioritize practical guidance, technical mastery, and the cultivation of long-term client partnerships.
             </p>
             <p className="mt-4 text-base leading-7 text-gray-700">
-              Today, we continue to pair proven accounting standards with modern execution, helping clients navigate complexity with confidence.
+              By merging time-tested accounting standards with modern, efficient execution, we empower our clients to navigate market complexities with absolute confidence.
             </p>
           </motion.div>
 

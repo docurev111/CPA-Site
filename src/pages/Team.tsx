@@ -4,27 +4,15 @@ import { Link, Mail } from "lucide-react";
 export default function Team() {
   const team = [
     {
-      name: "[Name], CPA",
+      name: "Erica Molina",
       role: "Managing Partner",
       bio: "Leads the firm with over 25 years of experience in corporate tax and strategic structuring.",
       imageUrl: "",
     },
     {
-      name: "[Name], CPA, CFA",
-      role: "Director of Audit",
+      name: "Sherif Halawa",
+      role: "Proprietor",
       bio: "Specializes in assurance services and has advised multiple Fortune 500 companies throughout their career.",
-      imageUrl: "",
-    },
-    {
-      name: "[Name], CPA",
-      role: "Senior Tax Consultant",
-      bio: "Adept at handling complex international taxation, ensuring our clients optimize their global footprint.",
-      imageUrl: "",
-    },
-    {
-      name: "[Name], EA",
-      role: "Accounting Manager",
-      bio: "Leads our bookkeeping operations, deploying automated tech stacks for growing startups.",
       imageUrl: "",
     },
   ];
