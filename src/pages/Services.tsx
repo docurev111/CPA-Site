@@ -51,7 +51,7 @@ export default function Services() {
               Industry Leading Audit, Tax, and Consulting Services
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600 max-w-3xl mx-auto">
-              Delivering specialized financial solutions that adapt to your evolving needs. With a proven commitment to quality and excellence since 1991.
+              Delivering specialized financial solutions that adapt to your evolving needs. With a proven commitment to quality and excellence since 2025.
             </p>
           </motion.div>
         </div>

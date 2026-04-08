@@ -24,7 +24,7 @@ export default function About() {
               A Full-Service Accounting Company in Chicago, IL
             </h2>
             <p className="mx-auto mt-5 max-w-4xl text-base leading-7 text-gray-700 sm:text-lg">
-              Sample CPA was built on the expertise of seasoned partners in 1991 and continues to lead the way in specialized accounting services. We focus exclusively on the securities and derivatives industry, ensuring our clients receive responsive, high-quality attention that balances sophisticated audit and tax solutions with a commitment to excellence.
+              Sample CPA was built on the expertise of seasoned partners in 2025 and continues to lead the way in specialized accounting services. We focus exclusively on the securities and derivatives industry, ensuring our clients receive responsive, high-quality attention that balances sophisticated audit and tax solutions with a commitment to excellence.
             </p>
           </motion.div>
         </div>
@@ -77,7 +77,7 @@ export default function About() {
             <div className="mb-4 h-1 w-14 bg-sky-500" />
             <h3 className="text-2xl font-semibold sm:text-3xl">Our History</h3>
             <p className="mt-4 text-base leading-7 text-gray-700">
-              Since its inception, Sample CPA has specialized in providing sophisticated accounting and advisory solutions for highly regulated financial sectors.
+              Founded in 2025, Sample CPA has specialized in providing sophisticated accounting and advisory solutions for highly regulated financial sectors.
             </p>
             <p className="mt-4 text-base leading-7 text-gray-700">
               Our partners offer decades of combined public accounting and industry-specific experience. While our firm has grown and evolved, our core philosophy remains unchanged: we prioritize practical guidance, technical mastery, and the cultivation of long-term client partnerships.
