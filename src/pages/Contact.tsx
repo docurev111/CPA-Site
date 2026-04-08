@@ -39,7 +39,7 @@ export default function Contact() {
                   <Building2 className="h-7 w-6 text-primary-600" aria-hidden="true" />
                 </dt>
                 <dd>
-                  141 W. Jackson, Suite 2250<br />Chicago, IL 60604
+                  111 W. Jackson Blvd., Suite 1700<br />Chicago, IL 60604
                 </dd>
               </div>
               <div className="flex gap-x-4">
@@ -48,9 +48,18 @@ export default function Contact() {
                   <Phone className="h-7 w-6 text-primary-600" aria-hidden="true" />
                 </dt>
                 <dd>
-                  <a className="hover:text-gray-900" href="tel:+1 (312) 922-0062">
-                    (312) 922-0062
+                  <a className="hover:text-gray-900" href="tel:+13122783248">
+                    (312) 278-3248
                   </a>
+                </dd>
+              </div>
+              <div className="flex gap-x-4">
+                <dt className="flex-none">
+                  <span className="sr-only">Fax</span>
+                  <Phone className="h-7 w-6 text-primary-600" aria-hidden="true" />
+                </dt>
+                <dd>
+                  (312) 855-2014
                 </dd>
               </div>
               <div className="flex gap-x-4">
